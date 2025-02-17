@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hello world! Eu sou Sandra Mastrogiacomo.</h1>
 
 <p align="center">
-    ✏️Uma jornalista dedicada a ser uma desenvolvedora!
+    Desenvolvedora FUll Stack / Back-End / Analista de dados
 </p>
 
 ---
