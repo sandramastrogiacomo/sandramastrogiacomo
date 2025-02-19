@@ -10,7 +10,7 @@
 
 ## 🌎 Sobre mim  
 🎓 Estudante de TI na Univesp. </p>
-🎓 Participante de bootcamps Ada Tech (Back-end), Generation Brasil (Full Stack) e Alura One (Ciência de Dados).</p>
+🎓 Participante de bootcamps Ada Tech (Back-end), Generation Brasil (Full Stack) e Alura One (Ciências de Dados).</p>
 💻 Jornalista especializada em mídias digitais.</p>
 💼 Idiomas: Italiano (avançado) Inglês (intermediário) e Espanhol (básico).</p>
 🔍 Interesse especial em Metodologias Ágeis e gestão de projetos.</p>
