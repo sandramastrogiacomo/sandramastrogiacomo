@@ -11,7 +11,7 @@
 ## 🌎 Sobre mim 
 👩‍💻 Desenvolvedora Full Stack. </p> 
 🚀 Java, Python, Web Development. </p>
-💡 Apaixonada por soluções eficientes.  </p>
+💡 Apaixonada por criação de soluções eficientes e design centrado no usuário.  </p>
 🎓 Estudante de TI na Univesp. </p>
 🎓 Participante de bootcamps Ada Tech (Back-end), Generation Brasil (Full Stack) e Alura One (Ciência de Dados).</p>
 💻 Jornalista especializada em mídias digitais.</p>
