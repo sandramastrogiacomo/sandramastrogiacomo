@@ -64,7 +64,7 @@
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 **Ferramentas de testes de APIs**
-![Insomnia](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg)
+![Insomnia](https://img.shields.io/badge/Insomnia-Testing%20API-blue)
 
 
 
