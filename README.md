@@ -35,7 +35,7 @@
 <h3>Minhas habilidades</h3>
 
 **Linguagens e Frameworks**
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -64,7 +64,7 @@
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 **Ferramentas de testes de APIs** 
-![Insomnia](https://img.shields.io/badge/Insomnia-Testing%20API-blue?style=flat&logoUrl=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)  
 
 
 
