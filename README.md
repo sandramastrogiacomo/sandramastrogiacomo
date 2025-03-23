@@ -1,6 +1,6 @@
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
-<h1 align="center">👋 Hello world! Eu sou Sandra Mastrogiacomo.</h1>
+<h1 align="center">👋 Hello world! Eu sou Sandra Mastrogiacomo!</h1>
 
 <p align="center">
    💻 Desenvolvedora Full Stack | 💻 Back-End | 💻 Front-End | 💻 Dados | ♿ PcD 
