@@ -9,15 +9,24 @@
 ---
 
 ## 🌎 Sobre mim 
-👩‍💻 Desenvolvedora Full Stack. </p> 
-🚀 Java, Python, Javascrpit, Web Development. </p>
-💡 Apaixonada por criação de soluções eficientes e design centrado no usuário.  </p>
-🎓 Estudante de TI na Univesp. </p>
-🎓 Participante de bootcamps Ada Tech (Back-end), Generation Brasil (Full Stack) e Alura One (Ciência de Dados).</p>
-💻 Jornalista especializada em mídias digitais.</p>
-💼 Idiomas: Italiano (avançado) Inglês (intermediário) e Espanhol (básico).</p>
-🔍 Interesse especial em Metodologias Ágeis e gestão de projetos.</p>
-📍  Baseada em São Paulo, SP, Brasil.</p>
+
+👩‍💻 Desenvolvedora Full Stack em transição de carreira, com base sólida em comunicação digital e foco em soluções tecnológicas centradas no usuário.
+
+🚀 Tecnologias: Java, Spring Boot, JavaScript, React, Python, HTML, CSS, MySQL, Git, GitHub.
+
+🎓 Estudante de Tecnologia da Informação na UNIVESP.
+
+🎓 Participante dos bootcamps Ada Tech (Back-end Java), Generation Brasil (Full Stack Web) e Alura One (Ciência de Dados).
+
+📰 Jornalista com ampla experiência em mídias digitais, UX Writing, SEO e produção de conteúdo multiplataforma.
+
+🌱 Interesse especial em Metodologias Ágeis, Inteligência Artificial, gestão de projetos e design de soluções escaláveis.
+
+🌍 Idiomas: Italiano (avançado), Inglês (intermediário), Espanhol (básico).
+
+📍 São Paulo, SP – Brasil.
+
+
 
 ---
 
