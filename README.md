@@ -18,6 +18,8 @@
 
 🎓 Participante dos bootcamps Ada Tech (Back-end Java), Generation Brasil (Full Stack Web) e Alura One (Ciência de Dados).
 
+🎓 Embaixadora universitária DIO Campus Expert.
+
 📰 Jornalista com ampla experiência em mídias digitais, UX Writing, SEO e produção de conteúdo multiplataforma.
 
 🌱 Interesse especial em Metodologias Ágeis, Inteligência Artificial, gestão de projetos e design de soluções escaláveis.
