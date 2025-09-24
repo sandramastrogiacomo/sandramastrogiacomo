@@ -10,6 +10,8 @@
 
 ## 🌎 Sobre mim 
 
+🚀 Desenvolvedora Jr. no Mercado Livre desde maio de 2025.
+
 👩‍💻 Desenvolvedora Full Stack em transição de carreira, com base sólida em comunicação digital e foco em soluções tecnológicas centradas no usuário.
 
 🚀 Tecnologias: Java, Spring Boot, JavaScript, React, Python, HTML, CSS, MySQL, Git, GitHub.
